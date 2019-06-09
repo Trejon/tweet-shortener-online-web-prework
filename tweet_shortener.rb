@@ -1,8 +1,13 @@
 # Write your code here.
 def dictionary
   hash = {
-    "Hello" => "h1", 
-    "to" => "2",
-    "two" => "2"
-    "t"
+    "hello" => 'hi'
+"to, two, too" => '2' 
+"for" => 4
+"
+four" =>'4'
+'be' => 'b'
+'you' =>'u'
+"at" => "@" 
+"and" => "&"
   }
