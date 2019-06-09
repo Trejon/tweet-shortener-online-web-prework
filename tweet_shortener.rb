@@ -2,12 +2,13 @@
 def dictionary
   hash = {
     "hello" => 'hi'
-"to, two, too" => '2' 
-"for" => 4
-"
-four" =>'4'
-'be' => 'b'
-'you' =>'u'
-"at" => "@" 
-"and" => "&"
+    "to" => '2' 
+    "two" => "2"
+    "too" => "2"
+    "for" => "4"
+    "four" =>'4'
+    'be' => 'b'
+    'you' =>'u'
+    "at" => "@" 
+    "and" => "&"
   }
