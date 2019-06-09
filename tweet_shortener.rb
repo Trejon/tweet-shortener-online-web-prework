@@ -13,3 +13,6 @@ def dictionary
     "and" => "&"
   }
 end 
+
+def word_substituter(string)
+  array = string.split (" ")
